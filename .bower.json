@@ -1,0 +1,12 @@
+{
+  "name": "backbone-relational",
+  "homepage": "https://github.com/katsgeorgeek/Backbone-relational",
+  "_release": "77498e7c6a",
+  "_resolution": {
+    "type": "commit",
+    "commit": "77498e7c6a15c58973d2b48f08d1396fa2c222bd"
+  },
+  "_source": "git://github.com/katsgeorgeek/Backbone-relational.git",
+  "_target": "77498e7c6a15c58973d2b48f08d1396fa2c222bd",
+  "_originalSource": "git://github.com/katsgeorgeek/Backbone-relational.git"
+}
